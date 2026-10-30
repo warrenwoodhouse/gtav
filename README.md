@@ -1,6 +1,6 @@
 # Front Cover
 
-![Logo](https://raw.githubusercontent.com/warrenwoodhouse/gtav/main/logo.png)
+![Logo](https://warrenwoodhouse.github.io/gtav/logo.png)
 
 Grand Theft Auto V (Xbox 360, Xbox One, PlayStation 3, PlayStation 4 & PlayStation 5) Unofficial Walkthrough Guide
 (C)2013-2026 Warren Woodhouse All Rights Reserved.
